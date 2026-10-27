@@ -1,6 +1,3 @@
-# Set working directory
-setwd("C:/Users/moizr/Desktop/Personal Projects/Mammals/")
-
 # Import ggplot library
 library(ggplot2)
 
