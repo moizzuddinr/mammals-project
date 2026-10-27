@@ -1,6 +1,3 @@
-# Set working directory
-setwd("C:/Users/moizr/Desktop/Personal Projects/Mammals/")
-
 # Import relevant packages
 library(tidyverse)
 library(ggplot2)
